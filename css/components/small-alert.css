@@ -1,0 +1,10 @@
+.small-alert {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}

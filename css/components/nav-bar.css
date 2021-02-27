@@ -19,23 +19,7 @@
 }
 
 .nav__notification {
-  background-color: tomato;
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   position: absolute;
   right: -10px;
   top: -10px;
-}
-
-.nav__notification-chat {
-  width: 30px;
-  height: 30px;
-  color: white;
-  font-weight: 600;
-  left: 15px;
-  bottom: 15px;
 }
